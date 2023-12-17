@@ -1,0 +1,15 @@
+
+div.t{
+  background: linear-gradient(to left, transparent 50%, lightblue 0) right;
+  background-size: 200% 100%;
+  transition:  5s ease-out;
+/*  height: 110px;*/
+  
+  
+}
+
+/*
+div.t.m0.xf.h6.y12.ff3.fs3.fc0.sc0.ls0.ws0{
+   padding: 6 px !important;
+   margin-bottom: 12 px !important; 
+}*/
